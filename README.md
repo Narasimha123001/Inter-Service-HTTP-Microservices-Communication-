@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 🛒 E-Commerce Microservices: Inter-Service HTTP Communication Guide
 
 This project demonstrates and contrasts the three primary synchronous inter-service HTTP communication mechanisms in the Spring ecosystem:

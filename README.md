@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🛒 E-Commerce Microservices: Inter-Service HTTP Communication Guide
 
 This project demonstrates and contrasts the three primary synchronous inter-service HTTP communication mechanisms in the Spring ecosystem:
@@ -735,3 +736,7 @@ To test **`RestClient`** or **`RestTemplate`** instead of Feign:
 2. Uncomment the **`RestClient`** block or **`RestTemplate`** block inside `placeOrder(...)` and `updateInventory(...)`.
 3. Comment out the `inventoryClient` calls.
 4. Restart `ecom-order-servise` and re-test with cURL to observe the difference in execution!
+=======
+# Inter-Service-HTTP-Microservices-Communication-
+This project demonstrates and contrasts the three primary synchronous inter-service HTTP communication mechanisms in the Spring ecosystem:
+>>>>>>> b1a8462f5b3704df94aae623f1d6b8d1e7e12101
